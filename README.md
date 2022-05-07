@@ -102,6 +102,8 @@ Stations with the highest number of available bikes:
 | 3122   | 76    | 
 | 247     | 76       | 
 | 3410     | 76       |
+
+
 _Station number 445 has the most available bikes and was the 8th station with highest capacity._
 
 ## Queries
